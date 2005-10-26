@@ -1,0 +1,17 @@
+Changes
+MANIFEST
+META.yml # Will be created by "make dist"
+Makefile.PL
+README
+lib/SLOOPS.pm
+lib/SLOOPS/Factory.pm
+lib/SLOOPS/SchemaGenerator.pm
+lib/SLOOPS/DbDriverMySQL.pm
+lib/SLOOPS/Tut/Person.pm
+lib/SLOOPS/Tut/Vehicule.pm
+lib/SLOOPS/Tut/Car.pm
+lib/SLOOPS/Tut/Plane.pm
+lib/SLOOPS/Tut/WDW.pm
+deployTut.pl
+useTut.pl
+t/00-load.t
